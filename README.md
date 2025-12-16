@@ -103,6 +103,11 @@ This project focused on evaluating the **stability and reliability of optical te
 ---
 
 ## Subsystem Validation and Integration Debugging (Urbx)
+**Role:** Test / Integration Engineer (Urbx)
+
+### Context  
+Subsystem-level validation and integration support for electromechanical assemblies, focused on rapid debug, fault isolation, and corrective action in a cross-functional environment.
+
 
 - Executed subsystem-level validation of electromechanical assemblies including motor-control electronics and sensor interfaces
 - Performed root cause analysis of timing and integration failures using targeted test scripts and bench instrumentation
