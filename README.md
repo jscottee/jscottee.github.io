@@ -1,3 +1,5 @@
+#### Reach me on [LinkedIn](https://www.linkedin.com/in/jscottee)
+
 # R&D Test / Reliability Engineer
 *This portfolio presents selected engineering projects focused on reliability testing, experimental validation, and data-driven failure investigation of electromechanical systems.*
 
@@ -70,3 +72,11 @@ This project focused on evaluating the **stability and reliability of optical an
 - Separated true degradation from measurement noise with quantified uncertainty
 - Delivered **data-backed recommendations** for calibration procedures and environmental controls
 - Improved repeatability and confidence in qualification and validation decisions
+
+---
+
+## Subsystem Validation and Integration Debugging (Urbx)
+
+- Executed subsystem-level validation of electromechanical assemblies including motor-control electronics and sensor interfaces
+- Performed root cause analysis of timing and integration failures using targeted test scripts and bench instrumentation
+- Supported defect documentation and corrective action development in collaboration with cross-functional teams  
