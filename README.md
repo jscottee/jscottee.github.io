@@ -17,21 +17,22 @@ The primary objective was to reason about system structure, interfaces, and obse
 - Produced **hardware and subsystem block diagrams** to support future test planning and integration
 - Documented assumptions, open risks, and candidate validation approaches for downstream development
 
-
-<div align="center">
-  <img src="/assets/System-Level Signal-Flow Diagramd.png"
-       width="600">
-  
-  <p><em>
-  High-level signal flow diagram for RF/imaging system architecture.
-  </em></p>
-</div>
-
 ### Technical Challenges
 
 - No mature hardware or field failures to analyze
 - High uncertainty around timing behavior, environmental sensitivity, and cross-subsystem interactions
 - Need to reason about **potential reliability risks without empirical data**
+
+To ensure early system concepts were testable and verifiable, I approached the Astral architecture with explicit attention to measurement observability and verification boundaries. The diagram below illustrates the end-to-end data flow from physical stimuli through sensing, timing, control, logging, and offline analysis, with each stage designed to support incremental validation, traceability, and root-cause isolation rather than treating testing as a post-integration activity.
+
+<div align="center">
+  <img src="/assets/System-Level Signal-Flow Diagram.png"
+       width="900">
+  
+  <p><em>
+  High-level signal flow diagram for RF/imaging system architecture.
+  </em></p>
+</div>
 
 ### Approach
 
