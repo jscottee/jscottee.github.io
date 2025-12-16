@@ -44,10 +44,15 @@ The primary objective was to reason about system structure, interfaces, and obse
 
 This project focused on evaluating the **stability and reliability of optical test systems** used for precision measurement. Reliability, repeatability, and long-term drift directly impacted calibration confidence and qualification decisions.
 
-![Camera pixel response linearity (pre-calibration)](/assets/images/camera_pixel_response_linearity_overlaid.png)
-
-*Illustrative pre-calibration camera response used in E Ink panel testing, highlighting nonlinearity and sensitivity to low-light reference stability.*
-
+<div align="center">
+  <img src="/assets/images/camera_pixel_response_linearity_overlaid.png"
+       alt="Camera pixel response linearity (pre-calibration)"
+       width="500">
+  
+  <p><em>
+  Illustrative pre-calibration camera response used in E Ink panel testing, highlighting nonlinearity and sensitivity to low-light reference stability.
+  </em></p>
+</div>
 
 ### My Role
 
