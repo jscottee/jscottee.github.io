@@ -1,4 +1,4 @@
-#### Reach me on LinkedIn → [James Scott | LinkedIn](https://www.linkedin.com/in/jscottee)
+#### Reach me on LinkedIn → [James Scott](https://www.linkedin.com/in/jscottee)
 
 # R&D Test / Reliability Engineer
 *This portfolio presents selected engineering projects focused on reliability testing, experimental validation, and data-driven failure investigation of electromechanical systems.*
