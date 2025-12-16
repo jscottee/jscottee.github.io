@@ -42,7 +42,12 @@ The primary objective was to reason about system structure, interfaces, and obse
 **Role:** Electro-Optical Engineer (E Ink)
 ### Context
 
-This project focused on evaluating the **stability and reliability of optical and electromechanical test systems** used for precision measurement. Reliability, repeatability, and long-term drift directly impacted calibration confidence and qualification decisions.
+This project focused on evaluating the **stability and reliability of optical test systems** used for precision measurement. Reliability, repeatability, and long-term drift directly impacted calibration confidence and qualification decisions.
+
+![Camera pixel response linearity (pre-calibration)](/assets/images/camera_pixel_response_linearity_overlaid.png)
+
+*Illustrative pre-calibration camera response used in E Ink panel testing, highlighting nonlinearity and sensitivity to low-light reference stability.*
+
 
 ### My Role
 
@@ -79,4 +84,4 @@ This project focused on evaluating the **stability and reliability of optical an
 
 - Executed subsystem-level validation of electromechanical assemblies including motor-control electronics and sensor interfaces
 - Performed root cause analysis of timing and integration failures using targeted test scripts and bench instrumentation
-- Supported defect documentation and corrective action development in collaboration with cross-functional teams  
+- Supported defect documentation and corrective action development in collaboration with cross-functional teams
