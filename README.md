@@ -17,6 +17,16 @@ The primary objective was to reason about system structure, interfaces, and obse
 - Produced **hardware and subsystem block diagrams** to support future test planning and integration
 - Documented assumptions, open risks, and candidate validation approaches for downstream development
 
+
+<div align="center">
+  <img src="/assets/System-Level Signal-Flow Diagramd.png"
+       width="600">
+  
+  <p><em>
+  High-level signal flow diagram for RF/imaging system architecture.
+  </em></p>
+</div>
+
 ### Technical Challenges
 
 - No mature hardware or field failures to analyze
@@ -60,7 +70,7 @@ This project focused on evaluating the **stability and reliability of optical te
 - Maintaining repeatability under varying environmental conditions
 
 <div align="center">
-  <img src="/assets/images/camera_pixel_response_linearity_overlaid.png"
+  <img src="/assets/camera_pixel_response_linearity_overlaid.png"
        alt="Camera pixel response linearity (pre-calibration)"
        width="500">
   
