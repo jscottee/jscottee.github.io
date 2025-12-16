@@ -102,7 +102,7 @@ This project focused on evaluating the **stability and reliability of optical te
 
 ---
 
-## Subsystem Validation and Integration Debugging (Urbx)
+## Subsystem Validation and Integration Debugging
 **Role:** Test / Integration Engineer (Urbx)
 
 ### Context  
