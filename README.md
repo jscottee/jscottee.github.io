@@ -2,9 +2,9 @@
 *This portfolio presents selected engineering projects focused on reliability testing, experimental validation, and data-driven failure investigation of electromechanical systems.*
 
 ## Project: Early-Stage Reliability & Testability Planning for a Multimodal Electromechanical System
-**Role:** Electrical Engineer (Exploratory / Pre-Implementation)
-### Project Context
-Astral AR is an early-stage effort exploring a multimodal electromechanical sensing concept. At the time of my involvement, the system was in the conceptual and feasibility phase, with limited hardware implementation and no production or field data available.
+**Role:** Electrical Engineer (Astral AR)
+### Context
+Astral AR is an early-stage effort exploring a multimodal electromechanical sensing concept. At the time of my involvement, the system was in the conceptual and feasibility phase, with limited hardware implementation and limited field data available.
 
 The primary objective was to reason about system structure, interfaces, and observability early enough to avoid downstream reliability and integration issues.
 
@@ -36,4 +36,37 @@ The primary objective was to reason about system structure, interfaces, and obse
 
 ---
 
+## Project: Reliability Characterization and Root Cause Analysis of Optical Test Systems
+**Role:** Electro-Optical Engineer (E Ink)
+### Context
 
+This project focused on evaluating the **stability and reliability of optical and electromechanical test systems** used for precision measurement. Reliability, repeatability, and long-term drift directly impacted calibration confidence and qualification decisions.
+
+### My Role
+
+- Designed and implemented **automated optical and electromechanical test systems** using Python, MATLAB, and C
+- Built **data-acquisition pipelines** coordinating imaging hardware, timing signals, and environmental controls
+- Planned and executed **environmental and long-duration stability tests**
+- Performed **hands-on root cause analysis (RCA)** using instrumentation-driven experiments
+- Communicated findings to engineering teams to inform design and qualification decisions
+
+### Technical Challenges
+
+- Performance drift emerging only over extended runtimes
+- Ambiguity between **true hardware degradation** and **measurement noise**
+- Timing and synchronization interactions across hardware and software boundaries
+- Maintaining repeatability under varying environmental conditions
+
+### Approach
+
+- Designed controlled experiments to isolate timing, environmental, and hardware contributors
+- Used oscilloscopes, logic analyzers, and signal generators to investigate synchronization and drift behavior
+- Conducted a **spectroscopic gage study** to quantify sources of measurement variability
+- Compared results across conditions to distinguish degradation mechanisms from instrumentation effects
+
+### Outcomes
+
+- Identified dominant contributors to drift and instability
+- Separated true degradation from measurement noise with quantified uncertainty
+- Delivered **data-backed recommendations** for calibration procedures and environmental controls
+- Improved repeatability and confidence in qualification and validation decisions
